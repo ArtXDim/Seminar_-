@@ -8,7 +8,7 @@ a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3
 ```
 
-[Ссылка Exercise001](https://github.com/ArtXDim/Seminar_-/blob/main/excercise001/Program.cs)
+[Ссылка Exersice001](https://github.com/ArtXDim/Seminar_-/blob/main/excercise001/Program.cs)
 
 ## Задача 2: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 
@@ -18,7 +18,7 @@ a = -9 b = -3 -> max = -3
 22 3 9 -> 22
 ```
 
-[Ссылка Exercise001](https://github.com/ArtXDim/Seminar_-/blob/main/excercise002/Program.cs)
+[Ссылка Exersice002](https://github.com/ArtXDim/Seminar_-/blob/main/excercise002/Program.cs)
 
 ## Задача 3: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
 
@@ -28,7 +28,7 @@ a = -9 b = -3 -> max = -3
 7 -> нет
 ```
 
-[Ссылка Exercise003](https://github.com/ArtXDim/Seminar_-/blob/main/excercise003/Program.cs)
+[Ссылка Exersice003](https://github.com/ArtXDim/Seminar_-/blob/main/excercise003/Program.cs)
 
 ## Задача 4: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
 
@@ -37,4 +37,4 @@ a = -9 b = -3 -> max = -3
 8 -> 2, 4, 6, 8
 ```
 
-[Ссылка Exercise004](https://github.com/ArtXDim/Seminar_-/blob/main/excercise004/Program.cs)
+[Ссылка Exersice004](https://github.com/ArtXDim/Seminar_-/blob/main/excercise004/Program.cs)
