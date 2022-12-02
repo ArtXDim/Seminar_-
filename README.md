@@ -8,7 +8,7 @@ a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3
 ```
 
-[Ссылка Exersice001](https://github.com/ArtXDim/Seminar_-/blob/main/excercise001/Program.cs)
+[Ссылка Exersice001](https://github.com/ArtXDim/Seminar_-/blob/main/excersice001/Program.cs)
 
 ## Задача 2: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 
@@ -37,4 +37,4 @@ a = -9 b = -3 -> max = -3
 8 -> 2, 4, 6, 8
 ```
 
-[Ссылка Exersice004](https://github.com/ArtXDim/Seminar_-/blob/main/excercise004/Program.cs)
+[Ссылка Exersice004](https://github.com/ArtXDim/Seminar_-/tree/main/excersice001)

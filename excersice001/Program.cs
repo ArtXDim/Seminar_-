@@ -6,6 +6,12 @@ a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3
 */
 
+Console.Write("Введите число а=");
+int numA = Console.ReadLine(Convert.ToInt32(numA));
+Console.Write("Введите число b=");
+int numB = Console.ReadLine(Convert.ToUInt32(numB));
+
+/*
 for (int i = 0; i < 3; i++)
 {
     var a = GetRightNumber("a");
@@ -34,3 +40,4 @@ static int GetRightNumber(string name)
     }
     return b;
 }
+*/
