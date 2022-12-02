@@ -6,9 +6,31 @@ a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3
 */
 
-Console.Write("Введите число a=");
-string numberA = Console.ReadLine();
-int a = Convert.ToInt32(numberA)
-Console.Write("Введите число b=");
-string numberB = Console.ReadLine();
-int b = Convert.ToInt32(numberB);
+for (int i = 0; i < 3; i++)
+{
+    var a = GetRightNumber("a");
+    var b = GetRightNumber("b");
+    var max = Math.Max(a, b);
+    var min = Math.Min(a, b);
+
+    if (max == min)
+    {
+        Console.WriteLine("Ха ха числа то одинаковые, ты меня хочешь обмануть");
+    }
+    else
+    {
+        Console.WriteLine($"{max}, больше чем {min}");
+    }
+}
+
+static int GetRightNumber(string name)
+{
+    Console.Write($"Введите число {name}=");
+    int b = 0;
+    while (!int.TryParse(Console.ReadLine(), out b))
+    {
+        Console.WriteLine("Так вводить надо числа, Дурень!!!");
+        continue;
+    }
+    return b;
+}
